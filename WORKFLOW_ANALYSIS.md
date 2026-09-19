@@ -7,9 +7,9 @@ What triggers this workflow to run? (Look at the on: section)
 What are the four main steps this workflow performs? (List each step name)
 
 * Step 1: Get the code from the repository
-* Step 2: Validate HTML files
-* Step 3: Check for broken links
-* Step 4: Upload the built site for deployment
+Step 2: Validate HTML files
+Step 3: Check for broken links
+Step 4: Upload the built site for deployment
 
 What does the "Checkout code" step do and why is it necessary?
 
