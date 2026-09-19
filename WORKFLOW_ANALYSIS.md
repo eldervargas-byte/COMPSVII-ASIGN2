@@ -1,6 +1,7 @@
 ## WorkFlow_Analysis Question 
 
 - What triggers this workflow to run? (Look at the on: section)
+
 When the code is pushed to the main branch
 
 - What are the four main steps this workflow performs? (List each step name)
