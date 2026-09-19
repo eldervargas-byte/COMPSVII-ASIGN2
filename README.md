@@ -14,6 +14,7 @@ techflow-website/
     └── workflows/
         └── deploy.yml  # GitHub Actions deployment workflow
 ```
+[![Deploy to GitHub Pages](https://github.com/eldervargas-byte/COMPSVII-ASIGN2/actions/workflows/deploy.yml/badge.svg)](https://github.com/eldervargas-byte/COMPSVII-ASIGN2/actions/workflows/deploy.yml)
 
 ## Features
 
