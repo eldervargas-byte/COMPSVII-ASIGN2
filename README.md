@@ -80,6 +80,10 @@ This project is designed to practice professional development workflows includin
 
 This is a learning project for practicing collaborative development workflows. Follow the assignment instructions for contributing to this repository.
 
+And including a few additions for the README.md 
+The assignment has indeed taught me about the workflows and lines for addition its unknown for what is need or not. 
+However, it makes the whole ordeal quite interest take and practice of the principals of Github.
+
 ## License
 
 This project is for educational purposes.
